@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mo.Saad
 - 👀 I’m interested in Data analysis and Data engineering
-- 🌱 I’m currently learning Power BI, Spark and Kafka
+- 🌱 I’m currently Improving My Dashboarding Skills
 - 💞️ I’m looking forward to getting a job in Data analysis and further widen my horizons on the data field
 - 📫 How to reach me 
 - moh2041999@hotmail.com
