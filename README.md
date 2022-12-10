@@ -7,7 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [https://mo-saad-theanalyst.github.io/Mo.Saad.github.io/](https://mo-saad-theanalyst.github.io/Mo.Saad.github.io/)
 
-- 📄 My Resume [https://drive.google.com/file/d/1HMDBIYokb05A3YqzYonUkWHo9wFOOuWb/view?usp=sharing](https://drive.google.com/file/d/1HMDBIYokb05A3YqzYonUkWHo9wFOOuWb/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
