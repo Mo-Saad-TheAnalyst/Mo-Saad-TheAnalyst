@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mohamed Saad</h1>
 <h3 align="center">The Data Analyst</h3>
 
-- 🔭 I’m currently working on **Data Analysis with cloud**
+- 🔭 I’m currently working as **Junior Data Engineer**
 
-- 🌱 I’m currently learning **AWS platform**
+- 🌱 I’m currently learning **Docker & Kubernetes**
 
 - 👨‍💻 All of my projects are available at [https://mo-saad-theanalyst.github.io/Mo.Saad.github.io/](https://mo-saad-theanalyst.github.io/Mo.Saad.github.io/)
 
