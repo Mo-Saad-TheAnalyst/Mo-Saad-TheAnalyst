@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Saad</h1>
 <h3 align="center">The Data Analyst</h3>
 
-- 🔭 I’m currently working as **Junior Data Engineer**
+- 🔭 I’m currently working as **Junior Data Engineer | Data Analyst**
 
 - 🌱 I’m currently learning **Docker & Kubernetes**
 
